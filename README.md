@@ -8,4 +8,4 @@
 
 * Hence our challenge is to detect the fraud transaction based on some pre-collected data
 
-DATASET LINK: [display](https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud)
+DATASET LINK: [https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud](https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud)
